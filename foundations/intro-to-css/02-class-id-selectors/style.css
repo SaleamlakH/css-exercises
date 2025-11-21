@@ -1,7 +1,7 @@
 .odd-element,
 .third-element {
     background-color: rgb(255,0,0,0.4);
-    font-family: Verdana, Dejavu-Sans, Sans-serif;
+    font-family: Verdana, "Dejavu Sans", Sans-serif;
 }
 
 #second-element {
